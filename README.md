@@ -6,7 +6,7 @@ Nos últimos anos trabalhei como criador de conteúdo para o youtube e acabei re
 
 Me formei em gestão financeira, também estudei em um curso técnico de web design e outro de administração, além de vários outros cursos menores. Meu inglês é de nível intermediário mas estou buscando melhorar isso.
 
-Atualmente estou estudando para ingressar na área de desenvolvimento front-end visando me tornar um desenvolver full-stack.****
+Atualmente estou estudando para ingressar na área de desenvolvimento front-end visando me tornar um desenvolver full-stack.
 
 <!--
 **MVinsos/MVinsos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
