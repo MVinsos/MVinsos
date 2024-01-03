@@ -5,8 +5,6 @@
 
 Comecei minha carreira trabalhando no setor bancário e em corretora de seguros, nesse tempo aprendi como ser mais proativo e fazer de tudo um pouco.
 
-Nos últimos anos trabalhei como criador de conteúdo para o youtube e acabei realizando alguns serviços de freelancer no processo, portanto tenho alguma experiência com edição de vídeo e imagem.
-
 Me formei em gestão financeira, também estudei em um curso técnico de web design e outro de administração, além de vários outros cursos menores. Meu inglês é de nível intermediário mas estou buscando melhorar isso.
 
 Atualmente estou estudando para ingressar na área de desenvolvimento front-end visando me tornar um desenvolvedor full-stack.
