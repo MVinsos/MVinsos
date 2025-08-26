@@ -3,12 +3,11 @@
 ---
 
 
-Comecei minha carreira trabalhando no setor bancário e em corretora de seguros, nesse tempo aprendi como ser mais proativo e fazer de tudo um pouco.
+Minha trajetória começou no setor bancário e em corretora de seguros, onde desenvolvi proatividade, adaptabilidade e a capacidade de lidar com diferentes responsabilidades.
 
-Me formei em gestão financeira, também estudei em um curso técnico de web design e outro de administração, além de vários outros cursos menores. Meu inglês é de nível intermediário mas estou buscando melhorar isso.
+Sou formado em Gestão Financeira, cursei técnico em Web Design e Administração, além de diversos cursos complementares. Tenho inglês em nível intermediário e sigo evoluindo nesse ponto.
 
-Atualmente estou estudando para ingressar na área de desenvolvimento front-end visando me tornar um desenvolvedor full-stack.
-
+Atualmente estou me dedicando ao desenvolvimento front-end e avançando em back-end, com o objetivo de atuar como desenvolvedor full-stack. Estou em constante aprendizado e aplicando meus conhecimentos em projetos práticos para consolidar minha transição para a área de tecnologia
 
 ---
 
